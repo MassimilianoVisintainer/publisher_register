@@ -1,7 +1,7 @@
 HELP.md
 .gradle
 build/
-!gradle/wrapper/gradle-wrapper.jar
+!publisher_register_backend/gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
 
@@ -18,7 +18,7 @@ bin/
 !**/src/test/**/bin/
 
 ### IntelliJ IDEA ###
-.idea
+publisher_register_backend/.idea
 *.iws
 *.iml
 *.ipr
